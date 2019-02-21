@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+Form {
+  margin-top: 75px;
+}
+
+input {
+  width: 250px;
+  height: 30px;
+}
